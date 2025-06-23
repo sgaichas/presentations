@@ -148,7 +148,7 @@ ecodata::plot_recdat(report = "MidAtlantic", varName = "effort")
 
 An *indicator* tells us something about where we are relative to our goals or to limits, or about the context we are working within that may affect achieving our goals.
 
-![:img bottom temperature, 35%](https://github.com/NOAA-EDAB/ecodata/raw/dev/workshop/images/bottom_temp_threshold_17_19_Elephant_Trunk.png)![:img black sea bass survey distribution change over time from 2018 SOE,30%](https://github.com/NOAA-EDAB/presentations/raw/master/docs/EDAB_images/black_sea_bass_kde.png)![:img offshore wind, 35%](https://github.com/NOAA-EDAB/ecodata/raw/dev/workshop/images/Cumulative_Timeline_FullRegion_SoE2024_v2_2024.png)
+![:img bottom temperature, 35%](https://github.com/NOAA-EDAB/ecodata/raw/dev/data-raw/workshop/images/bottom_temp_threshold_17_19_Elephant_Trunk.png)![:img black sea bass survey distribution change over time from 2018 SOE,30%](https://github.com/NOAA-EDAB/presentations/raw/master/docs/EDAB_images/black_sea_bass_kde.png)![:img offshore wind, 35%](https://github.com/NOAA-EDAB/ecodata/raw/dev/data-raw/workshop/images/Cumulative_Timeline_FullRegion_SoE2024_v2_2024.png)
 
 ---
 ## Documenting and sharing ecosystem information
