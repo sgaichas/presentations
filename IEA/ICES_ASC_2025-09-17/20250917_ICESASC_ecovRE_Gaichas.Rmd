@@ -64,7 +64,24 @@ myBib <- ReadBib("./FishDiet_Ecoindicators.bib", check = FALSE)
 
 ```
 
-# Does food drive recruitment of Atlantic herring?
+# Environmental covariates vs random effects
+
+RE suck up a lot of variation
+
+EC can too
+
+We have an example
+
+One might be predictable, one isnt
+
+Do we risk sacrificing short term prediction capability (needed by management) for assessment model fit (needed to get models accepted for use in management)? 
+
+???
+Considerable effort has been invested in evaluating potential environmental drivers of stock productivity, mortality, and/or availability in recent Northwest Atlantic stock assessments. Additional recent investment in regional ocean modeling is aimed at operational short term prediction of environmental conditions such as bottom temperature. Environmental drivers have been successfully included in stock assessments using the Woods Hole Assessment Model (WHAM), a state-space modeling framework. Here we review lessons learned and controversial opinions generated from attempts to include environmental recruitment covariates within a stock assessment for Atlantic herring. Environmental covariates were tailored to herring life history and implemented based on mechanistic hypotheses. Despite significant correlations with recruitment estimated from a prior (non-state-space) assessment model, none of the covariates were included in the final state-space model. We draw two main conclusions. First, even in a state of the art model there are limits on environmental covariate inclusion. For example, mechanistic linkages available for recruitment covariates dwindle if a stock recruit relationship cannot be estimated. Second, tradeoffs may exist between including mechanistic drivers as covariates and including random effects that account for variation from unidentified mechanisms. Herring recruitment covariates had much stronger explanatory power in the absence of numbers at age (NAA) random effects, but model fit was much better with NAA random effects. Given that some environmental covariates can be forecast, while some random effects cannot or it is not clear how, this presents a dilemma. Do we risk sacrificing short term prediction capability (needed by management) for assessment model fit (needed to get models accepted for use in management)? 
+
+
+---
+# What drives recruitment of Atlantic herring?
 
 ## Atlantic herring, *Clupea harengus*
 
