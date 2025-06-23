@@ -550,7 +550,7 @@ background-position: right
 
 * Hypoxia and OA off NJ
 
-![:img NJ hypoxia](https://github.com/NOAA-EDAB/ecodata/raw/dev/workshop/images/Figure2-GraceSaba_2024.png)
+![:img NJ hypoxia](https://github.com/NOAA-EDAB/ecodata/raw/dev/data-raw/workshop/images/Figure2-GraceSaba_2024.png)
 
 * Record *low* hypoxia in Chesapeake Bay since 1995, relatively cool summer with high salinity.
 
@@ -560,7 +560,7 @@ background-position: right
 ]
 
 .pull-right[
-![:img scallop stress bottom temp, 90%](https://github.com/NOAA-EDAB/ecodata/raw/dev/workshop/images/bottom_temp_threshold_17_19_Elephant_Trunk.png)
+![:img scallop stress bottom temp, 90%](https://github.com/NOAA-EDAB/ecodata/raw/dev/data-raw/workshop/images/bottom_temp_threshold_17_19_Elephant_Trunk.png)
 ]
 
 ???
