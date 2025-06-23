@@ -2,6 +2,8 @@
 
 ![gitleaks](https://github.com/NOAA-EDAB/presentations/workflows/gitleaks/badge.svg)
 
+Original NOAA EDAB presentations are deployed at https://noaa-edab.github.io/presentations/
+
 
 Use this repository to share presentations developed in R or other plain text languages. Before hosting your presentation, please read through the following guidelines to ensure that your presentation goes off without a hitch.
 
